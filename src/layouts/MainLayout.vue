@@ -68,14 +68,14 @@ export default {
       right: false,
       count: 1,
       menuItems: [
-        { title: 'Обучающее видео', link: '/' },
-        { title: 'Оформление заказа', link: '/' },
-        { title: 'Оплата', link: '/' },
-        { title: 'Доставка', link: '/' },
-        { title: 'Гарантия', link: '/' },
-        { title: 'Возврат', link: '/' },
-        { title: 'Контакты', link: '/' },
-        { title: 'Партнерам', link: '/' }
+        { title: 'Обучающее видео', link: '#' },
+        { title: 'Оформление заказа', link: '#' },
+        { title: 'Оплата', link: '#' },
+        { title: 'Доставка', link: '#' },
+        { title: 'Гарантия', link: '#' },
+        { title: 'Возврат', link: '#' },
+        { title: 'Контакты', link: '#' },
+        { title: 'Партнерам', link: '#' }
       ],
       tabItems: [
         { label: 'Ваиант кухни', to: '/' },
