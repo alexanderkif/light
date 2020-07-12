@@ -84,7 +84,7 @@ export default {
         { label: 'Питающий кабель', to: '/' },
         { label: 'Блок питания', to: '/' },
         { label: 'Цвет свечения', to: '/color' },
-        { label: 'Монтаж', to: '/info' },
+        { label: 'Монтаж', to: '/' },
         { label: 'Корзина', to: '/' }
       ],
       title: '3492 руб.'
@@ -95,7 +95,7 @@ export default {
 
 <style lang="scss" scoped>
 .tab-item {
-  border-bottom: 3px solid #00abf0;
+  border-bottom: 8px solid #00abf0;
 
   &_red {
     border-bottom-color: #ff8182;
